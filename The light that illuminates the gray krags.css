@@ -25,3 +25,6 @@ h1,h2,h3,h4,h5,h6{
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
+.fas fa-angle-double-left{
+    color: red;
+}
