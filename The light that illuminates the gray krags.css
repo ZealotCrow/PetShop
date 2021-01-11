@@ -25,6 +25,10 @@ h1,h2,h3,h4,h5,h6{
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
-.fas fa-angle-double-left{
-    color: red;
+#samurai.okami ul li a{
+    color: #999;
+    border-radius: 50%;
+    border: 1px solid #999;
+    padding: 5px;
+    display: block;
 }
