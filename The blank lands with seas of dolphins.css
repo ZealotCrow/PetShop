@@ -5,10 +5,11 @@ body {
 li {
     display: inline;
     float: left;
+    font-family: Arial, Helvetica, sans-serif;
 }
 a {
     display:block;
-    padding: 8px;
+    padding: 20px;
     background-color: red;
   }
 ul {
