@@ -3,8 +3,8 @@ body {
     text-align: center;
 }
 li {
+    float: center;
     display: inline;
-    float: left;
     font-family: Arial, Helvetica, sans-serif;
 }
 a {
